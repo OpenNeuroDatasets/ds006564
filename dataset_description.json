@@ -1,0 +1,8 @@
+{
+    "Name": "Converted TUD fMRI Dataset",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Fernando Bravo"
+    ]
+}
