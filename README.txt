@@ -1,6 +1,6 @@
 
 Experiment Details:
-
+================
 Participants watched short films during fMRI while focusing on the main character’s mental states.  The films were paired with soundtracks varying in musical properties, enabling investigation of how controlled music-driven memory associations influence ToM encoding through predictive priming mechanisms.
 
 TR = 2s
