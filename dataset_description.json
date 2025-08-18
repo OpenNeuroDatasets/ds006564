@@ -10,5 +10,6 @@
     "Funding": [
         "This project was made possible through the support from Queens’ College Cambridge (Walker Studentship to F.B.), the Andrea von Braun Stiftung, and Zukunftskonzept at TU Dresden (Exzellenzinitiative of the Deutsche Forschungsgemeinschaft)."
     ],
-    "HowToAcknowledge": "Cite this paper: Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121. \n\nConsider including the following message 'This data was obtained from the OpenNeuro database.'"
+    "HowToAcknowledge": "Cite this paper: Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121. \n\nConsider including the following message 'This data was obtained from the OpenNeuro database.'",
+    "ReferencesAndLinks": []
 }
