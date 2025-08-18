@@ -1,7 +1,7 @@
 
 Experiment Details:
 ================
-Participants watched short films during fMRI while focusing on the main character’s mental states.  The films were paired with soundtracks varying in musical properties, enabling investigation of how controlled music-driven memory associations influence ToM encoding through predictive priming mechanisms.
+Participants watched short films during fMRI while focusing on the main character’s mental states.  The films were paired with soundtracks varying in musical properties, enabling investigation of how controlled music-driven memory associations influence theory-of-mind (ToM) encoding through predictive priming mechanisms.
 
 Information to relate patterns of functional brain organization to phenotypic measures (i.e., autism traits):
 --------------------------------------------------------------------------------------------------------------------------------------------------------
