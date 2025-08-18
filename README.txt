@@ -3,8 +3,8 @@ Experiment Details:
 ================
 Participants watched short films during fMRI while focusing on the main character’s mental states.  The films were paired with soundtracks varying in musical properties, enabling investigation of how controlled music-driven memory associations influence ToM encoding through predictive priming mechanisms.
 
-Information to relate patterns of functional brain organization to phenotypic measures (i.e., personality traits):
---------------------------------------------------------------------------------------------------------------------------------------------------------------
+Information to relate patterns of functional brain organization to phenotypic measures (i.e., autism traits):
+--------------------------------------------------------------------------------------------------------------------------------------------------------
 
 The dataset allows to investigate brain mechanisms underlying individual variation in measures related to ASD including: autism traits (Baron-Cohen et al., 2001), empathy traits, and ToM (Baron-Cohen and Wheelwright, 2004)]. The influence of three common co-morbidities: depression, anxiety and alexithymia can also be assessed (Spielberger et al., 1970; Beck, 1991; Vorst and Bermond, 2001; Bird et al., 2010; Heaton et al., 2012; Strang et al., 2012).
 
