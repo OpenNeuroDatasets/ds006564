@@ -1,0 +1,20 @@
+{
+    "Name": "Naturalistic fMRI Dataset (film with controlled musical information)",
+    "BIDSVersion": "1.8.0",
+    "DatasetType": "raw",
+    "Authors": [
+        "Fernando Bravo"
+    ],
+    "Acknowledgements": "We thank Christine Ahrends, Katharina Pitt, and Aya Keller for help with data collection.",
+    "License": "CC0",
+    "Funding": [
+        "This project was made possible through the support from Queens’ College Cambridge (Walker Studentship to F.B.), the Andrea von Braun Stiftung, and Zukunftskonzept at TU Dresden (Exzellenzinitiative of the Deutsche Forschungsgemeinschaft)."
+    ],
+    "HowToAcknowledge": "How to cite: \nBravo F (2025). Naturalistic fMRI Dataset (film with controlled musical information). OpenNeuro. [Dataset] doi:10.18112/openneuro.ds006564.v1.0.0\n\nConsider also citing this paper: Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121. \n",
+    "ReferencesAndLinks": [
+        "Bravo F, Glogowski J, Stamatakis EA, Herfert K (2024) Dissonant music engages early visual processing. Proc Natl Acad Sci USA 121:e2320378121.",
+        "Bravo F, Cross I, Hopkins C, Gonzalez N, Docampo J, Bruno C, Stamatakis EA (2019) Anterior cingulate and medial prefrontal cortex response to systematically controlled tonal dissonance during passive music listening. Hum Brain Mapp:hbm.24786.",
+        "Bravo F, Cross I, Hawkins S, Gonzalez N, Docampo J, Bruno C, Stamatakis EA (2017) Neural mechanisms underlying valence inferences to sound: The role of the right angular gyrus. Neuropsychologia 102:144–162."
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds006564.v1.0.1"
+}
